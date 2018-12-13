@@ -1,1 +1,1 @@
-(dnsdumpster)[https://dnsdumpster.com/]
+https://dnsdumpster.com/
