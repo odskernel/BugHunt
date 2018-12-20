@@ -6,3 +6,7 @@
 
 # DNS Scanner
 [dnsdumpster](https://dnsdumpster.com/)
+
+# Exploit
+[Exploit DB](https://www.exploit-db.com/)
+
