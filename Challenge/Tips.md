@@ -10,3 +10,5 @@
 [ソースコード置き場 - CTFに使用するツール類まとめ](http://d.hatena.ne.jp/waidotto/20120820/1345477008)  
 [忖度 - Reversingとかpwnとかを解くときのメモ(かきかけ)](http://satos.hatenablog.jp/entry/2016/12/02/192417)  
 
+# Assembly
+[IA32（x86）汎用命令一覧](http://softwaretechnique.jp/OS_Development/Tips/IA32_instructions.html)  
