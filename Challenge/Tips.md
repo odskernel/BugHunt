@@ -1,5 +1,9 @@
-# C language
+# C language & Assembly
 [C Compiler Explorer](https://gcc.godbolt.org/)  
+[IA32（x86）汎用命令一覧](http://softwaretechnique.jp/OS_Development/Tips/IA32_instructions.html)  
+[ブレークポイントの設定方法](http://flex.phys.tohoku.ac.jp/texi/gdb-j/gdb-j_18.html)  
+[ももいろテクノロジー - gdbの使い方のメモ](http://inaz2.hatenablog.com/entry/2014/05/03/044943)  
+[gdb を利用する](https://uguisu.skr.jp/Windows/gdb.html)  
 
 # ELF解析  
 [blue9's 外壁 - ELFとELFローダについて](http://blue-9.hatenadiary.com/entry/2017/03/14/212929)  
@@ -10,5 +14,3 @@
 [ソースコード置き場 - CTFに使用するツール類まとめ](http://d.hatena.ne.jp/waidotto/20120820/1345477008)  
 [忖度 - Reversingとかpwnとかを解くときのメモ(かきかけ)](http://satos.hatenablog.jp/entry/2016/12/02/192417)  
 
-# Assembly
-[IA32（x86）汎用命令一覧](http://softwaretechnique.jp/OS_Development/Tips/IA32_instructions.html)  
