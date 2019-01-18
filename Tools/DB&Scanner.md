@@ -16,3 +16,5 @@
 
 # Web Application  
 [RecurseBuster - Content discovery tool to perform directory and file bruteforcing.](https://github.com/c-sto/recursebuster)  
+  $ go run main.go -u https://www.google.com -w wordlist.txt
+
