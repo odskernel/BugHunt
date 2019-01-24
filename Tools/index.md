@@ -15,6 +15,14 @@
 [Exploit DB](https://www.exploit-db.com/)
 
 # Web Application  
+## Directory Search
 [RecurseBuster - Content discovery tool to perform directory and file bruteforcing.](https://github.com/c-sto/recursebuster)  
-  $ go run main.go -u https://www.google.com -w wordlist.txt
+  $ go run main.go -u https://www.google.com -w wordlist.txt  
+[dirsearch](https://github.com/maurosoria/dirsearch)  
+  $ python3 dirsearch.py -u http://www.fanduel.com -e *  
+## Subdomain Search  
+[Sublist3r](https://github.com/aboul3la/Sublist3r)  
+
+## Password List  
+[SecLists/Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords)  
 
