@@ -4,3 +4,4 @@
 [No1zy Web Security Blog - バグハンターのためのクライアントサイドJavaScriptの静的解析](https://no1zy.hatenablog.com/entry/static-analysis-of-javascript-for-bughunters)  
 [イー・アルゴリズム - SEが気づきにくいWebサイトの脆弱性の見つけ方](https://e-algorithm.xyz/vulnerability/)
 [Web Application Penetration Testing Cheat Sheet](https://jdow.io/blog/2018/03/18/web-application-penetration-testing-methodology/)  
+[OWASP - Web Application Penetration Testing](https://www.owasp.org/index.php/Web_Application_Penetration_Testing)  
