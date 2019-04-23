@@ -26,3 +26,9 @@
 ## Password List  
 [SecLists/Passwords](https://github.com/danielmiessler/SecLists/tree/master/Passwords)  
 
+# Mobile  
+[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)  
+  [Implement MobSF on Kali Linux for Dynamic and Static Security Testing](https://qualibrate.com/blog/quality-assurance/implement-mobsf-on-kali-linux/)  
+  $ python3 manage.py runserver PORT_NO  
+  $ python3 manage.py runserver IP:PORT_NO  
+  
