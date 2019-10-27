@@ -8,6 +8,9 @@
 [FOFA - Cyberspace Search Engine](https://fofa.so/)  
 [PublicWWW - Source Code Search Engine](https://publicwww.com/)  
 
+# S3 Scanner
+[GrayHatWarfare](https://buckets.grayhatwarfare.com/)
+
 # DNS Scanner
 [dnsdumpster](https://dnsdumpster.com/)
 
